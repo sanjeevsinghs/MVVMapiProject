@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "04524AF9-15AB-4F09-B5F9-BBCA360F5547"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33CA1856-EC70-4A0D-ADA7-DB7B44DD0DA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMapiProject/Screens/Product/View/ProductListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ProductListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "33CA1856-EC70-4A0D-ADA7-DB7B44DD0DA9 - 6374588aa7325049"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMapiProject.ProductListViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MVVMapiProject.ProductListViewController"
+                  moduleName = "MVVMapiProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bd01/Documents/MVVMapiProject/MVVMapiProject/Screens/Product/View/ProductListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "33CA1856-EC70-4A0D-ADA7-DB7B44DD0DA9 - 77d627f8a8813694"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMapiProject.ProductListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MVVMapiProject.ProductListViewController"
+                  moduleName = "MVVMapiProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bd01/Documents/MVVMapiProject/MVVMapiProject/Screens/Product/View/ProductListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "129">
+               </Location>
+               <Location
+                  uuid = "33CA1856-EC70-4A0D-ADA7-DB7B44DD0DA9 - 1b555dfe0cb0426"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMapiProject.ProductListViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MVVMapiProject.ProductListViewController&gt;"
+                  moduleName = "MVVMapiProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bd01/Documents/MVVMapiProject/MVVMapiProject/Screens/Product/View/ProductListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "33CA1856-EC70-4A0D-ADA7-DB7B44DD0DA9 - 5f61f2dd1e63ffc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMapiProject.ProductListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MVVMapiProject.ProductListViewController&gt;"
+                  moduleName = "MVVMapiProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bd01/Documents/MVVMapiProject/MVVMapiProject/Screens/Product/View/ProductListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "33CA1856-EC70-4A0D-ADA7-DB7B44DD0DA9 - d4ded36b9ce4f674"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMapiProject.ProductListViewController.__deallocating_deinit"
+                  moduleName = "MVVMapiProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bd01/Documents/MVVMapiProject/MVVMapiProject/Screens/Product/View/ProductListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
