@@ -7,6 +7,6 @@
 
 enum Constant{
     enum API{
-        static let productURL = "https://fakestoreapi.com/products"
+        static let productURL = "https://fakestoreapi.com/products?limit=1000&skip=0"
     }
 }

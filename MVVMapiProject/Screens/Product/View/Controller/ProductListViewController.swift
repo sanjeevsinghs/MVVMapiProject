@@ -60,7 +60,7 @@ extension ProductListViewController{
                 print("Stop loading...")
             case .dataLoaded:
                 print ("Data loaded...")
-                print(self.viewModel.products)
+                print(self.viewModel.products.count)
                 DispatchQueue.main.async {
                     self.proTblViewO.reloadData()
                 }
